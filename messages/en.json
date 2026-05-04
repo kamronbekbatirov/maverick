@@ -1,0 +1,57 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "MAVERICK",
+    "subtitle": "Your trusted partner in the world of services",
+    "description": "We create the future of services - from professional car wash to gaming clubs and restaurants",
+    "cta": "Learn more"
+  },
+  "detailing": {
+    "title": "Maverick Detailing",
+    "subtitle": "Next-generation mobile car wash",
+    "description": "Professional car washing and detailing services that come to you. Just add your car to our app, choose a service, set your location - and we'll come to you!",
+    "features": {
+      "app": "Convenient mobile application",
+      "garage": "Virtual garage for your cars",
+      "location": "Service anywhere in the city",
+      "professional": "Professional equipment"
+    },
+    "cta": "Order wash"
+  },
+  "future": {
+    "title": "Future projects",
+    "subtitle": "We're just getting started",
+    "gaming": {
+      "title": "Gaming Club",
+      "description": "Modern gaming club with the latest releases"
+    },
+    "restaurant": {
+      "title": "Restaurant",
+      "description": "Exquisite cuisine and cozy atmosphere"
+    },
+    "more": {
+      "title": "And much more",
+      "description": "Stay tuned for updates on our projects"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Maverick. All rights reserved.",
+    "contact": "Contact us",
+    "follow": "Follow us"
+  }
+}
+
+
+
+
+
+
+
+
+
+
