@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maverick.uz/sitemap.xml
+
+
+
+
+
+
+
+
+
+
