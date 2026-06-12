@@ -9,7 +9,7 @@ export default createMiddleware({
   defaultLocale: 'ru',
   
   // Always use locale prefix, but redirect root to default locale
-  localePrefix: 'as-needed',
+  localePrefix: 'always',
   
   // Disable automatic locale detection based on Accept-Language header
   localeDetection: false
