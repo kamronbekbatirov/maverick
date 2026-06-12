@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import "../test-styles.css";
+import Script from "next/script";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { locales, type Locale } from '@/i18n/request';
@@ -47,6 +48,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
+        <Script src="https://stats.kama.uz/script.js" data-website-id="d72346b8-6c5f-4c1d-8bcf-3e6d20919468" data-domains="maverick.uz" strategy="afterInteractive" />
       </body>
     </html>
   );
